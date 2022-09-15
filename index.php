@@ -8,5 +8,6 @@
 </head>
 <body>
     <h1>Hello Php</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque repudiandae eos totam quam unde deserunt veniam quos iste tenetur illo.</p>
 </body>
 </html>
